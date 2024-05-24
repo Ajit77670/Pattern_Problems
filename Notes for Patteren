@@ -1,0 +1,18 @@
+----------------PATTERN QUESTION CONCEPT----------------
+
+>> First Point : Always seek first how many lines are there in the given pattern. Lines means the each individual line 
+   consist of pattern. 
+   *
+   **
+   ***
+   ****
+   *****
+   For ex: the above pattern have no. of lines, n=5.
+
+>> Second Point : The outer for loop is representing the row no. and the row no. will runs based on the no. of lines
+      in the pattern i.e no. of lines (n) = no. of rows = no.of times outer loop will run.
+
+>> Third Point : We need to establish the relation between row and col in order to print the pattern, most important point.
+
+>> Fourth Point : When one row is printed , we need to add a newline. i.e System.out.println();      
+
